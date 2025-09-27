@@ -17,7 +17,7 @@ A simple Python + Streamlit app to explore GitHub repository stats using the Git
 
 ## ▶️ Run Locally
 ```bash
-git clone https://github.com/your-username/github-insights.git
+git clone https://github.com/fbabaei/github-insights.git
 cd github-insights
 pip install -r requirements.txt
 streamlit run app.py
