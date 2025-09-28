@@ -1,4 +1,4 @@
-# GitHub Repo Insights + AI 🤖📊
+# GitHub Repo Insights + AI
 
 [![CI](https://github.com/your-username/github-insights/actions/workflows/python-app.yml/badge.svg)](https://github.com/your-username/github-insights/actions/workflows/python-app.yml)
 
@@ -10,7 +10,7 @@ and generate AI-powered summaries using HuggingFace.
 
 A simple Python + Streamlit app to explore GitHub repository stats using the GitHub API.
 
-## 🚀 Features
+## Features
 - Repo metadata (stars, forks, issues)
 - Contributor leaderboard
 - Interactive charts
